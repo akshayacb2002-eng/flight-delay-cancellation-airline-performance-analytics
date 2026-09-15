@@ -1,6 +1,4 @@
-# Flight Delay, Cancellation and Airline Performance Analysis using Python
-
-# ✈️ Flight Delay, Cancellation & Airline Performance Analytics
+# ✈️ Flight Delay, Cancellation and Airline Performance Analysis using Python
 
 ## 📌 Project Description
 
